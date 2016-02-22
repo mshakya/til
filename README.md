@@ -5,5 +5,5 @@ List of hacks for different platforms/language/packages.
 
 ---
 ###Categories
-* [Python-pandas](#python-pandas)
+* [Python-pandas](python-pandas)
 * [MySQL](#mysql)
