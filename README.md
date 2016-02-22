@@ -3,5 +3,7 @@
 
 List of hacks for different platforms/language/packages.
 
-#Categories
-[Python-pandas](#python-pandas)
+---
+###Categories
+* [Python-pandas](#python-pandas)
+* [MySQL](#mysql)
