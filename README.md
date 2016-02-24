@@ -7,7 +7,8 @@ List of hacks for different platforms/language/packages.
 ###Categories
 
 * [MySQL](#mysql)
-* [Python-pandas](python-pandas)
+* [Python](#python)
+* [Python-pandas](#python-pandas)
 * [R](#R)
 
 ---
@@ -15,8 +16,12 @@ List of hacks for different platforms/language/packages.
 ### [MySQL](#mysql)
 - [Count values in a column](#mysql/coun-values-in-a-column.md)
 
+###[Python](#python)
+- [Range that includes last element](#python/range-that-includes-last-element.md)
+
 ### [Python-pandas](python-pandas)
 - [Rename specific column](#python-pandas/rename-specific-column.md)
+- [Fill a column based on another column](#python-pandas/fill-replace-values-based-on-another-column.md)
 
 ### [R](#R)
 - [Concatenate columns to new column](#R/concatenate-columns-to-new-column.md)
