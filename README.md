@@ -15,6 +15,8 @@ List of hacks for different platforms/language/packages.
 
 ### [MySQL](mysql)
 - [Count values in a column](mysql/coun-values-in-a-column.md)
+- [Multiple WHERE statement in one query](mysql/multiple-where-statement-query.md)
+- [Subset based on a query result](mysql/subset-based-on-a-query-results.md)
 
 ###[Python](python)
 - [Range that includes last element](python/range-that-includes-last-element.md)
