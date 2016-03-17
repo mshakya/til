@@ -12,6 +12,7 @@ List of hacks for different platforms/language/packages.
 * [Python-pandas](#python-pandas)
 * [Python-pymysql](#python-pymysql)
 * [R](#R)
+* [R-reshape2](#R-reshape2)
 
 ---
 
@@ -38,6 +39,6 @@ List of hacks for different platforms/language/packages.
 - [Concatenate columns to new column](R/concatenate-columns-to-new-column.md)
 - [Replace value in column with value from another column in dataframe](R/replace-value-in-column-with-value-from-another-column-in-datafra.md)
 
-### [R](R-reshape2)
+### [R-reshape2](R-reshape2)
 - [Split a column based on a pattern](R-reshape2/split-a-column-based-on-a-pattern.md)
 
