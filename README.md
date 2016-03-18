@@ -13,6 +13,7 @@ List of hacks for different platforms/language/packages.
 * [Python-pymysql](#python-pymysql)
 * [R](#R)
 * [R-reshape2](#R-reshape2)
+* [UNIX-screen](#unix-screen)
 
 ---
 
@@ -42,3 +43,5 @@ List of hacks for different platforms/language/packages.
 ### [R-reshape2](R-reshape2)
 - [Split a column based on a pattern](R-reshape2/split-a-column-based-on-a-pattern.md)
 
+### [UNIX-screen](#unix-screen)
+- [Scroll in a screen](unix-screen/scroll-in-a-screen.md)
